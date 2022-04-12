@@ -1,4 +1,4 @@
-name: basic ci cd
+name: basic-ci-cd
 
 on: [push]
 
